@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>my first web page</title> 
+
+</head>
+<body>
+    <!--heading-->
+    <h1> Welcome to my page</h1>
+    <!--paragrph-->
+    <p>this is a simple html document</p>
+    <p> feel free to explore more about html</p>
+    <!--unordered list-->
+    <ul>
+        <li>math</li>
+        <li>english</li>
+        <li>chemist</li>
+        <li>biology</li>
+         
+    </ul>
+    <ol>
+        <li>software engineering </li>
+        <li>web develoment </li>
+        <li>python</li>
+
+    </ol>
+     <!--anchor-->
+     <a href="https://facebook.com"> Go To Faceook</a>
+     <!--SEMATIC HTM-->>
+         
